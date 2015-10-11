@@ -14,4 +14,5 @@ Exercises - Day 1:
 4. Binary Clock () :functions, binary/hex numbers intro.
 
 Artem: 1,3, (2)
+
 Abdallah: 2,4
