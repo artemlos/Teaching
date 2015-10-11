@@ -7,6 +7,7 @@ Equipment:
 
 
 Exercises - Day 1:
+
 1. Development Environment
 2. Basics of Electronics (the flow of electricity, why resitors (practically), make a led blink) :digital
 3. Passive Buzzer with Buttons (make a buzzer) :analog, pull upp resistance.
